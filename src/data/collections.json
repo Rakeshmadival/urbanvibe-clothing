@@ -1,0 +1,23 @@
+[
+  {
+    "id": "summer-edit",
+    "name": "The Summer Edit",
+    "slug": "summer-edit",
+    "tagline": "Light fabrics, easy silhouettes",
+    "banner": "/images/hero/collection-summer.svg"
+  },
+  {
+    "id": "festive-edit",
+    "name": "Festive Edit",
+    "slug": "festive-edit",
+    "tagline": "Statement pieces for the season",
+    "banner": "/images/hero/collection-festive.svg"
+  },
+  {
+    "id": "weekend-staples",
+    "name": "Weekend Staples",
+    "slug": "weekend-staples",
+    "tagline": "Comfort that still looks sharp",
+    "banner": "/images/hero/collection-weekend.svg"
+  }
+]

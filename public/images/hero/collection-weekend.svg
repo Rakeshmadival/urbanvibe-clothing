@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a0a"/>
+      <stop offset="100%" stop-color="#2a2118"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <text x="50%" y="46%" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="76" fill="#e6c068">Weekend Staples</text>
+  <text x="50%" y="56%" text-anchor="middle" font-family="Arial, sans-serif" letter-spacing="4" font-size="20" fill="rgba(245,242,238,0.7)">Comfort that still looks sharp</text>
+</svg>

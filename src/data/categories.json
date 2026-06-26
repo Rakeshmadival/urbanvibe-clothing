@@ -1,0 +1,23 @@
+[
+  {
+    "id": "women",
+    "name": "Women",
+    "slug": "women",
+    "image": "/images/categories/women.svg",
+    "description": "Dresses, tops & everyday essentials"
+  },
+  {
+    "id": "men",
+    "name": "Men",
+    "slug": "men",
+    "image": "/images/categories/men.svg",
+    "description": "Shirts, tees & weekend staples"
+  },
+  {
+    "id": "kids",
+    "name": "Kids",
+    "slug": "kids",
+    "image": "/images/categories/kids.svg",
+    "description": "Playful fits for little ones"
+  }
+]

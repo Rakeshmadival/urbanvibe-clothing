@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125" width="900" height="1125">
+  <defs>
+    <linearGradient id="g0" x1="0%" y1="0%" x2="100%" y2="100%" gradientTransform="rotate(24)">
+      <stop offset="0%" stop-color="#0a0a0a"/>
+      <stop offset="100%" stop-color="#1c1c1c"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1125" fill="url(#g0)"/>
+  <rect x="40" y="40" width="820" height="1045" fill="none" stroke="#c8a96e" stroke-opacity="0.35" stroke-width="1.5"/>
+  <text x="50%" y="46%" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="44" fill="#e6c068">Satin Slip Dress</text>
+  <text x="50%" y="52%" text-anchor="middle" font-family="Arial, sans-serif" letter-spacing="6" font-size="16" fill="rgba(245,242,238,0.55)">WOMEN</text>
+  <line x1="42%" y1="56%" x2="58%" y2="56%" stroke="#c8a96e" stroke-width="1.5"/>
+  <text x="50%" y="94%" text-anchor="middle" font-family="Arial, sans-serif" letter-spacing="3" font-size="12" fill="rgba(245,242,238,0.55)">URBANVIBE — PHOTO COMING SOON</text>
+</svg>
