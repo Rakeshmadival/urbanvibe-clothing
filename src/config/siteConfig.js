@@ -3,7 +3,7 @@
 export const siteConfig = {
   brandName: 'UrbanVibe',
   tagline: 'Dress Your Everyday',
-  whatsappNumber: '918310341032', // country code + number, no + or spaces
+  whatsappNumber: '919945369185', // country code + number, no + or spaces
   instagramHandle: '@urbanvibe.clothing',
   instagramUrl: 'https://instagram.com/urbanvibe.clothing',
   email: 'hello@urbanvibe.example',

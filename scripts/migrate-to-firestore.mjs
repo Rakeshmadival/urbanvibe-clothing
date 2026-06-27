@@ -79,7 +79,7 @@ async function seedSettings() {
     {
       brandName: 'UrbanVibe',
       tagline: 'Dress Your Everyday',
-      whatsappNumber: '918310341032',
+      whatsappNumber: '919945369185',
       instagramHandle: '@urbanvibe.clothing',
       instagramUrl: 'https://instagram.com/urbanvibe.clothing',
       email: 'hello@urbanvibe.example',
